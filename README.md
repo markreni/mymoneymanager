@@ -24,9 +24,9 @@ The program is launched from the main.py file by pressing the play button next t
 *	For the user convenience, “Select all” checkbox has been provided above the “Save money” button with which the user can check and uncheck all the checkboxes simultaneously.
 *	The user can graph a savings pie chart by typing a savings amount to the input field below the “Save money” button and by pressing “Save money” button. The savings pie chart will be graphed provided that the input savings amount is of correct type and the input savings amount is above the sum of unimportant expenses. Please note that money can’t be saved from important expenses! In case the pie chart can’t be graphed, the program will output a warning message to the label field situated below the “Load file” button. 
 *	User can select additional functionalities from the menu bar “Other Operations”: 
-  -	By selecting “Clear window”, the whole window will be cleared.
-  -	By selecting “Show info”, the info window will be displayed. 
-  -	By selecting “Quit”, the program will be exited. 
-  -	By checking checkboxes of expenses lines and by selecting “Delete row”, a new pie chart without the checked expenses lines will be graphed. 
-  -	These functionalities also work with keyboard shortcuts. 
+   -	By selecting “Clear window”, the whole window will be cleared.
+   -	By selecting “Show info”, the info window will be displayed. 
+   -	By selecting “Quit”, the program will be exited. 
+   -	By checking checkboxes of expenses lines and by selecting “Delete row”, a new pie chart without the checked expenses lines will be graphed. 
+   -	These functionalities also work with keyboard shortcuts. 
 *	The label field “Checked €:” situated next to the “Expenses” button indicates the aggregate sum of the checked checkboxes and their percentual share of the total sum of expenses. The label field “Savings €:” indicates the checked checkboxes’ share of the savings amount. Checking only important expenses lines will display 0 in this field since money can’t be saved from important expenses.
